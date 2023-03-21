@@ -1,0 +1,15 @@
+C:\p\Taxi\Taxi\obj\Debug\net6.0\Taxi.csproj.AssemblyReference.cache
+C:\p\Taxi\Taxi\obj\Debug\net6.0\Taxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\p\Taxi\Taxi\obj\Debug\net6.0\Taxi.AssemblyInfoInputs.cache
+C:\p\Taxi\Taxi\obj\Debug\net6.0\Taxi.AssemblyInfo.cs
+C:\p\Taxi\Taxi\obj\Debug\net6.0\Taxi.csproj.CoreCompileInputs.cache
+C:\p\Taxi\Taxi\bin\Debug\net6.0\Taxi.exe
+C:\p\Taxi\Taxi\bin\Debug\net6.0\Taxi.deps.json
+C:\p\Taxi\Taxi\bin\Debug\net6.0\Taxi.runtimeconfig.json
+C:\p\Taxi\Taxi\bin\Debug\net6.0\Taxi.dll
+C:\p\Taxi\Taxi\bin\Debug\net6.0\Taxi.pdb
+C:\p\Taxi\Taxi\obj\Debug\net6.0\Taxi.dll
+C:\p\Taxi\Taxi\obj\Debug\net6.0\refint\Taxi.dll
+C:\p\Taxi\Taxi\obj\Debug\net6.0\Taxi.pdb
+C:\p\Taxi\Taxi\obj\Debug\net6.0\Taxi.genruntimeconfig.cache
+C:\p\Taxi\Taxi\obj\Debug\net6.0\ref\Taxi.dll
