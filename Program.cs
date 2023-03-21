@@ -12,13 +12,13 @@ namespace Taxi
 
             Taxialip taxi = new Taxialip();
 
-            taxi.DriverName = "Alip";
+            taxi.DriverName = "Alif";
             taxi.OnDuty = true;
             taxi.NumPassenger = 500;
 
             taxi.TaxiInfo();
-            taxi.TaxiPickUp();
-            taxi.TaxiDropOut();
+            taxi.TaxiPick();
+            taxi.TaxiDrop();
         }
     }
 }

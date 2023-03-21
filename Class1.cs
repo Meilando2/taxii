@@ -27,11 +27,11 @@ namespace Taxi
             }
             Console.WriteLine("Nomor Pelanggan : {0}", NumPassenger);
         }
-        public void TaxiPickUp()
+        public void TaxiPick()
         {
             Console.WriteLine("\n {0} Sedang Menaikkan Penumpang", DriverName);
         }
-        public void TaxiDropOut()
+        public void TaxiDrop()
         {
             Console.WriteLine("\n {0} Sedang Menurunkan Penumpang", DriverName);
         }
