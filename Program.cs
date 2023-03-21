@@ -10,15 +10,15 @@ namespace Taxi
         static void Main(string[] args)
         {
 
-            TaxiOne taxi = new TaxiOne();
+            Taxialip taxi = new Taxialip();
 
-            taxi.DriverName = "Ipul";
-            taxi.OnDuty = false;
-            taxi.NumPassenger = 82739182;
+            taxi.DriverName = "Alip";
+            taxi.OnDuty = true;
+            taxi.NumPassenger = 500;
 
             taxi.TaxiInfo();
-            taxi.PickupPassanger();
-            taxi.DropoffPassanger();
+            taxi.TaxiPickUp();
+            taxi.TaxiDropOut();
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Taxi
 {
-    public class TaxiOne
+    public class Taxialip
     {
         public string DriverName { get; set; }
         public Boolean OnDuty { get; set; }
@@ -27,11 +27,11 @@ namespace Taxi
             }
             Console.WriteLine("Nomor Pelanggan : {0}", NumPassenger);
         }
-        public void PickupPassanger()
+        public void TaxiPickUp()
         {
             Console.WriteLine("\n {0} Sedang Menaikkan Penumpang", DriverName);
         }
-        public void DropoffPassanger()
+        public void TaxiDropOut()
         {
             Console.WriteLine("\n {0} Sedang Menurunkan Penumpang", DriverName);
         }
